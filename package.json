@@ -1,0 +1,15 @@
+{
+    "name": "Yunak Cloner",
+    "version": "1.0.0",
+    "description": "Yunak Server Cloner",
+    "main": "index.js",
+    "scripts": {
+        "start": "node test.js"
+    },
+    "author": "Yunak",
+    "license": "MIT",
+    "dependencies": {
+        "axios": "^0.21.1",
+        "discord.js-selfbot-v13": "^2.3.8"
+    }
+}
